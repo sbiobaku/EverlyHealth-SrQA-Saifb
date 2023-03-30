@@ -1,6 +1,8 @@
 # Set up desktop environment 
 https://docs.python.org/3/library/venv.html 
 
+https://docs.docker.com/desktop/
+
 # Pull pytest image
 docker pull saifb/docker_pytest
 
